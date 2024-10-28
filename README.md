@@ -49,3 +49,7 @@ Enter a number between 1 and 10, then click "Guess."
 Feedback will be displayed and read aloud by the voice API.
 To restart, click "New Game."
 # Enjoy the game!  
+
+
+https://github.com/user-attachments/assets/7cb76555-24ab-4f81-ac87-b7776a007acb
+
