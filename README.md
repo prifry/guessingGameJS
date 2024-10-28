@@ -1,5 +1,3 @@
-# guessingGameJS
-
 # Secret Number Game
 # Project Overview
 This project is a simple web-based game where the user tries to guess a randomly generated "secret" number between 1 and 10. The game provides feedback on whether the guess is too high or too low, and the number of attempts made. The game uses basic HTML, CSS, and JavaScript, with the added feature of audio feedback provided by the ResponsiveVoice API.
