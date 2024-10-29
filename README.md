@@ -48,6 +48,7 @@ Open index.html in a web browser.
 Enter a number between 1 and 10, then click "Guess."
 Feedback will be displayed and read aloud by the voice API.
 To restart, click "New Game."
+# If you would like to play here is the link: https://guessinggamepriscila.netlify.app
 # Enjoy the game!  
 
 
